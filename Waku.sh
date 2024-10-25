@@ -54,9 +54,6 @@ function main_menu() {
 }
 
 # 安装节点工具的函数
-function install_node_tools() {
-    # 更新软件源并升级系统软件
-}
 
 # 安装节点函数
 function install_node() {
